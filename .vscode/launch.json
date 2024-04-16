@@ -1,0 +1,573 @@
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "type": "java",
+//             "name": "Current File",
+//             "request": "launch",
+//             "mainClass": "${file}"
+//         },
+//         {
+//             "type": "java",
+//             "name": "Stages_04",
+//             "request": "launch",
+//             "mainClass": "Stages_04",
+//             "projectName": "Test FX_d1263bc8"
+//         },
+//         {
+//             "type": "java",
+//             "name": "Test",
+//             "request": "launch",
+//             "mainClass": "Test",
+//             "projectName": "Test FX_d1263bc8"
+//         }
+//     ]
+// }
+
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App_01",
+            "request": "launch",
+            "mainClass": "App_01",
+            "projectName": "Test FX_1c175f6e"
+        },
+        {
+            "type": "java",
+            "name": "Tic_3",
+            "request": "launch",
+            "mainClass": "Tic_3",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tic_C",
+            "request": "launch",
+            "mainClass": "Tic_C",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Tic_2",
+            "request": "launch",
+            "mainClass": "Tic_2",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "EventKey",
+            "request": "launch",
+            "mainClass": "EventKey",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Task_3",
+            "request": "launch",
+            "mainClass": "Task_3",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Task_2",
+            "request": "launch",
+            "mainClass": "Task_2",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Datab",
+            "request": "launch",
+            "mainClass": "Datab",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Tic1",
+            "request": "launch",
+            "mainClass": "Tic1",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tic_Test",
+            "request": "launch",
+            "mainClass": "Tic_Test",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Tic",
+            "request": "launch",
+            "mainClass": "Tic",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "CalendarApp",
+            "request": "launch",
+            "mainClass": "CalendarApp",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "SK_GAME1",
+            "request": "launch",
+            "mainClass": "SK_GAME1",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "SK_GAME",
+            "request": "launch",
+            "mainClass": "SK_GAME",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "SudokuGame",
+            "request": "launch",
+            "mainClass": "SudokuGame",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_22_02",
+            "request": "launch",
+            "mainClass": "PR_22_02",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "PR_22_01",
+            "request": "launch",
+            "mainClass": "PR_22_01",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "PR_20",
+            "request": "launch",
+            "mainClass": "PR_20",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_22_1",
+            "request": "launch",
+            "mainClass": "PR_22_1",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "FileDig",
+            "request": "launch",
+            "mainClass": "FileDig",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "FileChoser",
+            "request": "launch",
+            "mainClass": "FileChoser",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Text_PR_02",
+            "request": "launch",
+            "mainClass": "Text_PR_02",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Text_PR_01",
+            "request": "launch",
+            "mainClass": "Text_PR_01",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_20_02",
+            "request": "launch",
+            "mainClass": "PR_20_02",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_20_01",
+            "request": "launch",
+            "mainClass": "PR_20_01",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Tab_05",
+            "request": "launch",
+            "mainClass": "Tab_05",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tab_04",
+            "request": "launch",
+            "mainClass": "Tab_04",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tab_03",
+            "request": "launch",
+            "mainClass": "Tab_03",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tab_02",
+            "request": "launch",
+            "mainClass": "Tab_02",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_19_02",
+            "request": "launch",
+            "mainClass": "PR_19_02",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_19_01",
+            "request": "launch",
+            "mainClass": "PR_19_01",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_16_01",
+            "request": "launch",
+            "mainClass": "PR_16_01",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "PR_17",
+            "request": "launch",
+            "mainClass": "PR_17",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "PR_18",
+            "request": "launch",
+            "mainClass": "PR_18",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tab_01",
+            "request": "launch",
+            "mainClass": "Tab_01",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Tab",
+            "request": "launch",
+            "mainClass": "Tab",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Media1",
+            "request": "launch",
+            "mainClass": "Media1",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Loading",
+            "request": "launch",
+            "mainClass": "Loading",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Scene01",
+            "request": "launch",
+            "mainClass": "Scene01",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Control3",
+            "request": "launch",
+            "mainClass": "Control3",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Control2",
+            "request": "launch",
+            "mainClass": "Control2",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Controls1",
+            "request": "launch",
+            "mainClass": "Controls1",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Controll",
+            "request": "launch",
+            "mainClass": "Controll",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Layout",
+            "request": "launch",
+            "mainClass": "Layout",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Radio",
+            "request": "launch",
+            "mainClass": "Radio",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App_01",
+            "request": "launch",
+            "mainClass": "App_01",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test02",
+            "request": "launch",
+            "mainClass": "Test02",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Evnt",
+            "request": "launch",
+            "mainClass": "Evnt",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Evnt_10",
+            "request": "launch",
+            "mainClass": "Evnt_10",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "JavaFxEffect",
+            "request": "launch",
+            "mainClass": "JavaFxEffect",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "JavaFxText_06",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test_01",
+            "request": "launch",
+            "mainClass": "Test_01",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "Page_45",
+            "request": "launch",
+            "mainClass": "Page_45",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Button_10",
+            "request": "launch",
+            "mainClass": "Button_10",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Lable_09",
+            "request": "launch",
+            "mainClass": "Lable_09",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TestFX_08",
+            "request": "launch",
+            "mainClass": "TestFX_08",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "Test FX_d1263bc8"
+        },
+        {
+            "type": "java",
+            "name": "GP_07",
+            "request": "launch",
+            "mainClass": "GP_07",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Scene_06",
+            "request": "launch",
+            "mainClass": "Scene_06",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Stages_04",
+            "request": "launch",
+            "mainClass": "Stages_04",
+            "projectName": "Test FX_d1263bc8",
+            "vmArgs": "--module-path C:/javafx-sdk-20/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+    }

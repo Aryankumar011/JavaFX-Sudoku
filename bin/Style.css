@@ -1,0 +1,23 @@
+.label {
+
+-fx-progress-color: RED;
+-fx-background-color: YELLOW;
+-fx-font: BOLd 15Px Arial ;
+/* -fx-font-size: 15px */
+}
+.button {
+
+ -fx-max-height: 20;
+ -fx-max-width: 70;
+ -fx-stroke: 10px ;
+ -fx-border-radius: 20px;
+ -fx-border-color: red;
+ -fx-min-height: 30;
+ -fx-min-width: 100;
+ -fx-text-alignment: center;
+ -fx-font-smoothing-type: bold;
+ -fx-font-family: "Times New Roman", Times, serif;
+ -fx-font-size: 17px;
+ 
+
+}
